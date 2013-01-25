@@ -14,11 +14,6 @@ require './config.conf'
 
 
 
-username = "ryuujinx"
-api_key = "f23e5cd588ae1cc7267764ac132811c8"
-auth_point = "us"
-container = "test"
-watchdir = "/home/dewey/testing/watch/"
 
 
 #Setup AUTH_URL
